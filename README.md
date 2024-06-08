@@ -1,8 +1,5 @@
-# YouTube_Analysis_Dashboard
-
 # 📊 YouTube Analysis Dashboard 📊
 
-## 🌐 YouTube Overview
 Since its launch on February 14, 2005, YouTube has become the premier video-sharing platform, catering to a myriad of interests globally.
 
 ![Youtube Analysis Dashboard](https://github.com/SrishtiiBansal/YouTube_Analysis_Dashboard/assets/153738911/e1a478d6-fc69-4063-a639-aac3dbe66722)
